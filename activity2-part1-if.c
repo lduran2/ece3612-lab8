@@ -2,9 +2,10 @@
  * Lab 8 Activity 2 Part 1 If.c
  *
  * Created: 3/26/2020 12:09:38 PM
- * Author : Leomar Duran
+ * Author : Leomar Duran <https://github.com/lduran2>
  * Board  : ATmega324PB Xplained Pro - 2505
  * For    : ECE 3612, Spring 2020
+ * Self   : <https://github.com/lduran2/ece3612-lab8/blob/master/activity2-part1-if.c>
  *
  * Encodes the number represented in binary by the switches PB[3:0] and
  * displays it on the Seven Segment Display.  This implementation uses

@@ -2,9 +2,10 @@
  * Lab 8 Activity 1.c
  *
  * Created: 3/26/2020 4:07:54 PM
- * Author : Leomar Duran
+ * Author : Leomar Duran <https://github.com/lduran2>
  * Board  : ATmega324PB Xplained Pro - 2505
  * For    : ECE 3612, Spring 2020
+ * Self   : <https://github.com/lduran2/ece3612-lab8/blob/master/activity1.c>
  *
  * Counts up or down the numbers [0, 9] on the Seven Segment Display
  * depending on the state of switch PB0.

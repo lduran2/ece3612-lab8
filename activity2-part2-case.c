@@ -2,9 +2,10 @@
  * Lab 8 Activity 2 Part 1 Case.c
  *
  * Created: 3/26/2020 5:22:04 PM
- * Author : Leomar Duran
+ * Author : Leomar Duran <https://github.com/lduran2>
  * Board  : ATmega324PB Xplained Pro - 2505
  * For    : ECE 3612, Spring 2020
+ * Self   : <https://github.com/lduran2/ece3612-lab8/blob/master/activity2-part2-case.c>
  *
  * Encodes the number represented in binary by the switches PB[3:0] and
  * displays it on the Seven Segment Display.  This implementation uses
@@ -23,7 +24,6 @@ int main(void)
 	DDRB = 0x00;	/* PORTB data direction to all inputs */
 
 	/* encoding: */
-	char digit;	/* the digit to encode */
 	char bit_pattern;	/* the bit pattern encoded */
 
 	/* listen indefinitely */
